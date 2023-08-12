@@ -1,0 +1,19 @@
+/*
+Copyright (c) 2014 Himanshu Softtech.
+------------------------------------------------------------------
+[Master Stylesheet]
+
+Project:	Health Care HTML Template
+Version:	1.1
+Last change:	23/05/14
+Assigned to:	Themeforest
+Primary use:	Medical, Hospitality 
+-------------------------------------------------------------------*/
+@import url("style.css");
+@import url("bootstrap.min.css");
+@import url("animate.min.css");
+@import url("owl.carousel.min.css");
+@import url("jquery.bxslider.min.css");
+@import url("font-awesome.min.css");
+@import url("custom.css");
+
