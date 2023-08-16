@@ -55,13 +55,7 @@
                 <div class="row hs_how_we_are ">
                     <div class="col-lg-12 col-md-12 col-sm-12">
                         <div class="hs_how_we_are_text newd">
-                            <p> Established in 2014 ,headquartered in Pune, the objective of
-                               Spiffy tech. is to carry on the business of software development, software as a
-                                service (SAAS), mobile application development, information technology, database, IT
-                                enabled services, training and development, web development, web and portal operations,
-                                ecommerce platforms, data and document storage and to act as resellers in software and IT
-                                products and to engage in business process outsourcing, knowledge management solutions,
-                                IT consulting and advisory services.</p>
+                            <p> Established in 2022 ,headquartered in Mumbai. At Spiffytech, our core objectives revolve around leveraging technology to drive positive transformations in businesses and fostering enduring partnerships with our clients. With a deep commitment to excellence, innovation, and ethical practices, we have outlined our key objectives to guide our mission and define our impact in the world of IT consultancy. Our commitment extends to nurturing relationships grounded in trust and mutual respect, viewing our clients as partners on a shared journey. Our ethical practices, transparent dealings, and unwavering integrity underpin every interaction. By adhering to these objectives, we aim to be a transformative force in the world of IT consultancy, enabling businesses to harness technology effectively, make informed decisions, and thrive in a dynamic digital landscape.</p>
                         </div>
 
                     </div>
@@ -70,18 +64,15 @@
                 <div class="row hs_how_we_are ">
                     <div class="col-lg-12 col-md-12 col-sm-12">
                         <div class="hs_how_we_are_text newd">
-                            <p>The word 
-                                <span class="diff_font">SPIFFY TECH</span> 
-                                is a combination of the words 
-                                <span class="diff_font">SIN</span> and 
-                                <span class="diff_font">AZ</span>. 
-                                The word <span class="diff_font">SIN</span> is derived from 
-                                <span class="diff_font">sincere</span> which signifies hard work and 
-                                the word <span class="diff_font">AZ</span> is taken from the word 
-                                <span class="diff_font">amaze</span>. The promoters of the company 
-                                desire to amaze their clients by putting in all the hard work and efforts 
-                                to provide them excellent services, thus leaving them happy and satisfied. 
-                            </p>
+                            <p>Each letter represents a key aspect of your business approach:</p>
+
+                            <p><span class="diff_font">S</span> trategic: Reflects your commitment to providing strategic guidance and solutions.</p>
+                            <p><span class="diff_font">P</span> artnerships: Emphasizes your focus on building lasting partnerships with clients.</p>
+                            <p><span class="diff_font">I</span> n: Indicates your involvement and engagement in clients' business processes.</p>
+                            <p><span class="diff_font">F</span> ostering: Highlights your role in nurturing growth and development.</p>
+                            <p><span class="diff_font">F</span> uture-proof: Captures your dedication to offering solutions that withstand the test of time.</p>
+                            <p><span class="diff_font">Y</span> ields: Represents the positive outcomes and results your consultancy generates.</p>
+
                         </div>
                     </div>
                 </div>
