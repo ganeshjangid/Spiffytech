@@ -72,23 +72,23 @@ $pagename = $this->uri->segment('1');
 
                     <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12" style="padding-left:0px;">
 
-                        <div id="hs_logo" > <a href="<?php echo base_url(); ?>index"> <img src="<?php echo base_url(); ?>asserts/images/header/logo.gif" alt=""> </a> </div>
+                        <div id="hs_logo" > <a href="<?php echo base_url(); ?>index"> <img src="<?php echo base_url(); ?>asserts/images/header/spiffy-tech-logo.png" alt=""> </a> </div>
                         <!-- #logo --> 
                     </div>
 
-                    <div class="col-lg-10 col-md-10 col-sm-10 col-xs-12 topmenuimg" >
+                    <div class="col-lg-8 col-md-8 col-sm-10 col-xs-12 topmenuimg" >
                         <button type="button" class="hs_nav_toggle navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">Menu<i class="fa fa-bars"></i></button>
                         <nav class="responsivenav">
                             <ul class="hs_menu collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                                 <li class="topmenu"><a href="<?php echo base_url(); ?>index"><span  class="spanmenu" id="home">Home</span></a></li>
-                                <li class="topmenu"><a href="<?php echo base_url(); ?>overview"><span  class="spanmenu" id="overview">Company Insight</span></a></li>
+                                <!-- <li class="topmenu"><a href="<?php echo base_url(); ?>overview"><span  class="spanmenu" id="overview">Company Insight</span></a></li> -->
                                 <li class="topmenu"><a href="<?php echo base_url(); ?>services"><span  class="spanmenu" id="services">Services & Platform</span></a></li>
                                 <!--<li class="topmenu"><a href="<?php echo base_url(); ?>products"><span  class="spanmenu" id="products">Products</span></a></li>-->
-                                <li class="topmenu"><a href="<?php echo base_url(); ?>cots"><span  class="spanmenu" id="cots">COTS</span></a></li>
-                                <li class="topmenu"><a href="<?php echo base_url(); ?>coe"><span  class="spanmenu" id="coe">COE</span></a></li>
-                                <li class="topmenu"><a href="<?php echo base_url(); ?>casestudies"><span  class="spanmenu" id="casestudies">Case Studies</span></a></li>
+                                <!-- <li class="topmenu"><a href="<?php echo base_url(); ?>cots"><span  class="spanmenu" id="cots">COTS</span></a></li>
+                                <li class="topmenu"><a href="<?php echo base_url(); ?>coe"><span  class="spanmenu" id="coe">COE</span></a></li> -->
+                                <!-- <li class="topmenu"><a href="<?php echo base_url(); ?>casestudies"><span  class="spanmenu" id="casestudies">Case Studies</span></a></li> -->
                                 <li class="topmenu"><a href="<?php echo base_url(); ?>whysinaz"><span  class="spanmenu" id="whysinaz">Why Spiffy Tech</span></a></li>
-                                <li class="topmenu"><a href="<?php echo base_url(); ?>careers"><span class="spanmenu" id="careers">Careers</span></a></li>
+                                <!-- <li class="topmenu"><a href="<?php echo base_url(); ?>careers"><span class="spanmenu" id="careers">Careers</span></a></li> -->
                                 <li class="topmenu"><a href="<?php echo base_url(); ?>contactus"><span  class="spanmenu" id="contact">Contact Us</span></a></li>
                                 <div class="clearfix"></div>
                             </ul>                            

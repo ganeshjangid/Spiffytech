@@ -4,14 +4,14 @@
             <div class="row">
                 <div class="col-xs-10 col-sm-10 col-md-10 foot-widget-bottom">
                     <a href="<?php echo base_url(); ?>index">Home</a> |
-                    <a href="<?php echo base_url(); ?>overview">Company Insight</a> |
+                    <!-- <a href="<?php echo base_url(); ?>overview">Company Insight</a> | -->
                     <a href="<?php echo base_url(); ?>services">Services & Platform</a> |
                     <!--<a href="<?php echo base_url(); ?>products">Products</a> |-->
-                    <a href="<?php echo base_url(); ?>cots">COTS</a> | 
+                    <!-- <a href="<?php echo base_url(); ?>cots">COTS</a> | 
                     <a href="<?php echo base_url(); ?>coe">COE</a> |
-                    <a href="<?php echo base_url(); ?>casestudies">Case Studies</a> |
+                    <a href="<?php echo base_url(); ?>casestudies">Case Studies</a> | -->
                     <a href="<?php echo base_url(); ?>whysinaz">Why Spiffy Tech</a> |
-                    <a href="<?php echo base_url(); ?>careers">Careers</a> |
+                    <!-- <a href="<?php echo base_url(); ?>careers">Careers</a> | -->
                     <a href="<?php echo base_url(); ?>contactus">Contact Us</a> 
                 </div>
 
