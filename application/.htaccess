@@ -1,8 +1,0 @@
-RewriteEngine On
-RewriteCond %{HTTP_HOST} ^acclivityconsulting.com [NC] 
-RewriteRule ^(.*)$ http://www.acclivityconsulting.com/$1 [L,R=301,NC]
-
-RewriteEngine on
-# index.php to /
-RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /.*index\.php\ HTTP/
-RewriteRule ^(.*)index\.php$ /$1 [R=301,L]
