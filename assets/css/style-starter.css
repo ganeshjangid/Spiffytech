@@ -149,6 +149,8 @@ blockquote {
 b,
 strong {
   font-weight: bolder;
+    color: #58d5d3;
+    font-size: 27px;
 }
 
 small {
@@ -1282,7 +1284,7 @@ pre code {
 
   .col-md-2 {
     flex: 0 0 16.66667%;
-    max-width: 16.66667%;
+    max-width: 10.66667%;
   }
 
   .col-md-3 {
@@ -8743,12 +8745,12 @@ button.bg-dark:focus {
 
 .pb-5,
 .py-5 {
-  padding-bottom: 3rem !important;
+  padding-bottom: 2rem !important;
 }
 
 .pl-5,
 .px-5 {
-  padding-left: 3rem !important;
+  padding-left: 2rem !important;
 }
 
 .m-n1 {
@@ -9610,12 +9612,12 @@ button.bg-dark:focus {
 
   .pb-md-5,
   .py-md-5 {
-    padding-bottom: 3rem !important;
+    padding-bottom: 2rem !important;
   }
 
   .pl-md-5,
   .px-md-5 {
-    padding-left: 3rem !important;
+    padding-left: 2rem !important;
   }
 
   .m-md-n1 {
@@ -14150,9 +14152,9 @@ h6 {
 p {
   margin: 0;
   padding: 0;
-  font-size: 16px;
+  font-size: 17px;
   line-height: 28px;
-  color: var(--para-color);
+  color: #232323;
   font-family: 'Open Sans', sans-serif;
 }
 
@@ -14224,7 +14226,7 @@ p.white {
 
 @media (min-width: 1280px) {
   .container {
-    max-width: 1200px;
+    max-width: 1700px;
   }
 }
 
@@ -14660,7 +14662,7 @@ input:checked+.mode-container i.gg-moon {
 }
 
 .w3l-header header.nav-fixed {
-  padding: 0px;
+  padding: 0px 2% 0px 2%;
   background-color: var(--bg-color);
   height: 100px;
   border-bottom: none;
@@ -15652,7 +15654,8 @@ button.owl-next {
 
 .w3l-middle p {
   color: #fff;
-  opacity: 0.9;
+  opacity: 4.9;
+  font-size: 20px;
 }
 
 .w3l-middle .forms-25-info {
@@ -16081,7 +16084,6 @@ button.owl-next {
 
 .abouthyn-inn {
   margin: 0 auto;
-  max-width: 687px;
 }
 
 .inner-banner {
