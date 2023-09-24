@@ -16087,7 +16087,7 @@ button.owl-next {
 }
 
 .inner-banner {
-  background: url(../images/banner4.jpg) no-repeat top;
+  background: url(../images/inner-image.png) no-repeat top;
   background-size: cover;
   min-height: 180px;
   position: relative;
@@ -16656,6 +16656,7 @@ button.owl-next {
   height: 70px;
   background: #fff;
   border-radius: 50%;
+  margin-left: 10%;
 }
 .w3l-services2 .icon_left_grid span.fa {
   font-size: 26px;
