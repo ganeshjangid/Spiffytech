@@ -8543,7 +8543,8 @@ button.bg-dark:focus {
 
 .mt-3,
 .my-3 {
-  margin-top: 1rem !important;
+  margin-top: 0.5rem !important;
+  margin-bottom: 2rem !important;
 }
 
 .mr-3,
@@ -14152,9 +14153,9 @@ h6 {
 p {
   margin: 0;
   padding: 0;
-  font-size: 17px;
-  line-height: 28px;
-  color: #232323;
+  font-size: 16px;
+  line-height: 24.5px;
+  color: var(--para-color);
   font-family: 'Open Sans', sans-serif;
 }
 
